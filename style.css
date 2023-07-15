@@ -1,0 +1,197 @@
+*{
+    font-family: 'Karla', sans-serif;
+}
+
+.header{
+    background: url(./image/angel.jpg);
+    background-repeat: no-repeat;
+    height: 1100px;
+    background-size: cover;
+    margin: -10px -10px 0 -50px ;
+}
+
+.title{
+    color: white;
+    float: left;
+    font-size: 100px;
+    padding-top: 200px;
+    padding-left: 800px;
+}
+
+.sub1{
+    margin: 200px 200px ;
+    width: 100vw;
+    height: 100%;
+}
+
+.sub2{
+    margin: 200px 200px ;
+    width: 100vw;
+    height: 100%;
+}
+
+.sub3{
+    background: url(./image/raptis.png);
+    background-repeat: no-repeat;
+    height: 1000px;
+    background-size: cover;
+    margin: -10px -10px 0 -50px ;
+}
+
+.sub-title{
+    font-size: 50px;
+    color: black;
+    margin-left: 100px;
+}
+
+.sub-title3{
+    margin-top: 150px;
+    font-size: 50px;
+    color: white;
+    margin-left: 100px;
+}
+
+
+.first{
+    color: #fa4b55;
+
+}
+
+.second{
+    color: #e52672;
+}
+
+.text1 p{
+    margin-top: -50px;
+    font-size: 30px;
+    width: 90%;
+}
+
+.text2 p{
+    margin-top: -50px;
+    font-size: 30px;
+    width: 90%;
+}
+
+.text3 p{
+    margin-top: -50px;
+    font-size: 30px;
+    width: 90%;
+    color: white;
+}
+
+.imge1{
+    width: 50%;
+    float: right;
+}
+.imge2{
+    width: 35%;
+    float: left;
+}
+
+
+.clear-float{
+    clear: both;
+}
+
+.text1{
+    width: 50%;
+    float: left;
+}
+
+.text2{
+    width: 50%;
+    float: left;
+}
+
+.text3{
+    width: 50%;
+    float: right;
+}
+
+a{
+    font-size:  30px;
+    margin-top: 10px;
+    margin-left: -10px;
+    padding: 15px 40px 15px 40px;
+    color: white;
+    background-color: #fa4b55;
+    border-radius: 30px;
+    text-decoration: none;
+    
+}
+
+a:hover{
+color: black;    
+}
+
+.footer{
+    background-color: #fa4b55;
+    margin: -30px -10px -50px -30px;
+}
+
+.opciones{
+    padding-bottom: 550px;
+    border-bottom:solid 2px rgb(255, 255, 255);
+}
+
+.list1{
+    color: white;
+    font-size: 30px;
+    float:left;
+    padding-top: 100px;
+    padding-left: 400px;
+}
+
+.list2{
+    color: white;
+    font-size: 30px;
+    float:left;
+    padding-top: 100px;
+    padding-left: 200px;
+}
+
+.list3{
+    color: white;
+    font-size: 30px;
+    float:left;
+    padding-top: 100px;
+    padding-left: 200px;
+}
+
+.list4{
+    color: white;
+    font-size: 30px;
+    float:left;
+    padding-top: 100px;
+    padding-left: 200px;
+}
+
+.listh{
+    margin-bottom: 100px;
+}
+
+li{
+    list-style: none;
+    margin: 15px;
+}
+
+.fin{
+    color: white;
+    font-size: 20px;
+    display: flex;
+    margin-left: 350px;
+}
+
+.fecha{
+    float: left;
+    
+}
+
+.correo{
+    float: left;
+    padding-left: 1100px;
+}
+
+
+
